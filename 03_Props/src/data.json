@@ -1,0 +1,17 @@
+[
+    {
+        "Name": "akash",
+        "Age": 22,
+        "Sex": "Male"
+    },
+    {
+        "Name": "abhay",
+        "Age": 20,
+        "Sex": "Male"
+    },
+    {
+        "Name": "Rekha",
+        "Age": 30,
+        "Sex": "Female"
+    }
+]
